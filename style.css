@@ -1,0 +1,75 @@
+body{
+    margin:20px;
+}
+section{
+    height:800px;
+    
+}
+p{
+    font-family: 'Roboto', sans-serif;
+    font-size:15px;
+    padding-bottom: 20px;
+}
+h1{
+    font-family: 'Bebas Neue', cursive;
+    font-size:80px;
+    font-weight: 500;
+    letter-spacing: 2px;
+    margin-bottom: 0px;
+}
+h3{
+    font-family: 'Bebas Neue';
+    font-size: 36px;
+    color: #696363;
+    font-weight: 500;
+    margin-bottom: 10px;
+}
+}
+.orangeCol{
+    color:lightsalmon;
+}
+.linkButton{
+    background-image: linear-gradient(lightsalmon,tomato);
+    padding: 10px 30px;
+    color:white;
+    border-radius: 5px;
+    text-decoration: none;
+}
+.singleIntro{
+    width:40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 3%;
+}
+.introDesc{
+    width:;
+}
+img{
+    width:50%;
+    margin-top: 100px;
+}
+.project{
+    clear:left;
+    background-color: rgb(216, 211, 211);
+}
+.project h1 {
+    font-size: 35px;
+    letter-spacing: 0.12px;
+    font-weight: 500;
+    text-align: center;
+    padding-top: 30px;
+}
+.singleProject {
+    width: 380px;
+    margin-left: 40px;
+    float:left;
+}
+.singleProject img {
+    width: 100%;
+}
+.inquiry{
+    background-image: url(images/Group_33094_1.png);
+    width:1200px;
+    margin:auto;
+    height: 50%;
+}
